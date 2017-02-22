@@ -1,0 +1,13 @@
+/*home component starts*/
+.marginTop{
+	margin-top: 70px;
+}
+/*home component ends*/
+
+/*footer component starts*/
+footer{
+	background: #eee;
+	padding: 50px;
+	margin-top: 50px;
+}
+/*footer component ends*/
